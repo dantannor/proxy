@@ -28,7 +28,7 @@
         "supertest": "^4.0.2"
     },
     "dependencies": {
-        "config": "^3.2.2",
+        "config": "^3.3.8",
         "express": "^4.17.1",
         "node-fetch": "^2.6.0",
         "percentile": "^1.2.2",
